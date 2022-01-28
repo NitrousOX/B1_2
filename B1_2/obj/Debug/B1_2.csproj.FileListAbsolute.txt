@@ -1,0 +1,11 @@
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\bin\Debug\B1_2.exe.config
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\bin\Debug\B1_2.exe
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\bin\Debug\B1_2.pdb
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.csprojAssemblyReference.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.Form1.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.Properties.Resources.resources
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.csproj.GenerateResource.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.csproj.CoreCompileInputs.cache
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.exe
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.pdb
+D:\Skola\4ITS\Programiranje\B zadaci\B1_2\B1_2\obj\Debug\B1_2.Prijava.resources
